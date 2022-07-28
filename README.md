@@ -1,6 +1,5 @@
 # Registration-System-with-DearPyGui-in-python
-python 
-##Obs:
+## Obs: 
 Antes de compilar App.py, instalar DearPyGUI con pip install dearpygui o pip3 install dearpygui en la consola de python
 SyetemBanc es hija de
         #>layout
